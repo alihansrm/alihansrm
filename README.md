@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Mathematics Student at Bilkent University
+Mathematics Graduate from Bilkent University
