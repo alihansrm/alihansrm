@@ -15,3 +15,9 @@ I'm a software developer focused on web applications and Unity games. I graduate
 ## More work
 
 Browse my [Unity experiments](https://github.com/alihansrm/Unity-Projects) and [Obsidian notes](https://github.com/alihansrm/learn-obsidian).
+
+## The reality behind my profile picture :)
+
+| AI version | Original |
+| :---: | :---: |
+| <img src="assets/whiteboard-ai.png" alt="AI illustration of Alihan at a math whiteboard" width="240"> | <img src="assets/whiteboard-original.jpg" alt="Original photo of Alihan at the whiteboard" width="240"> |
