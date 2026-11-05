@@ -1,18 +1,17 @@
-### Hi there 👋
+![Alihan — developer portfolio](assets/profile-banner.svg)
 
-<!--
-**alihansrm/alihansrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on web applications and Unity games. I graduated from Bilkent University with a degree in Mathematics and completed a minor in Software Development with a 4.00 GPA.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| --- | --- |
+| [Unity Spin Game](https://github.com/alihansrm/unity-spingame) | Android reward-wheel prototype with three wheel tiers, a risk mechanic, and a responsive Unity UI. **Unity · C#** |
+| [Arcade Car Controller Docs](https://github.com/alihansrm/bootstrap-unity-arcadecardocs) | Turkish tutorial covering raycast suspension, car handling, camera setup, and effects in Unity 6. **Unity · C# · Bootstrap** |
+| [PHP E-Commerce App](https://github.com/alihansrm/php-ecommerce-app) | Course project with customer and seller accounts, a product catalog, and a shopping cart. **PHP · MySQL · JavaScript** |
+| [MyScriptorium](https://github.com/alihansrm/java-scriptorium) | Desktop catalog for books, DVDs, and magazines, with sorting and search by ID. **Java · Swing** |
+| [ETHIstanbul Landing Page](https://github.com/alihansrm/web-ethistanbul) | Responsive conference page with speaker cards, a schedule, and merchandise previews. **HTML · CSS** |
 
-Mathematics Graduate from Bilkent University 
+## More work
+
+Browse my [Unity experiments](https://github.com/alihansrm/Unity-Projects) and [Obsidian notes](https://github.com/alihansrm/learn-obsidian).
