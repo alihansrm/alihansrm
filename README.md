@@ -1,5 +1,5 @@
 ![Alihan — developer portfolio](assets/profile-banner.svg)
-
+ 
 I'm a software developer focused on web applications and Unity games. I graduated from Bilkent University with a degree in Mathematics and completed a minor in Software Development with a 4.00 GPA.
 
 ## Selected projects
